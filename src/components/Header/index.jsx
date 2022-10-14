@@ -116,7 +116,7 @@ export const Header = () => {
             </li>
 
             <li onClick={agendarConsultaMenu}>
-              <Link href="https://wa.me/551981189197">
+              <Link href="https://wa.me/5514981189197">
                 <a target="_blank">Fale com nossos vendedores</a>
               </Link>
             </li>
